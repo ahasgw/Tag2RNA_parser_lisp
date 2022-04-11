@@ -1,0 +1,5 @@
+(with-open-file (gram-stream "HD160:Development:lisp:1:ex1.g" :direction :input)
+  (do ((gitem (read gram-stream nil)
+              (read gram-stream nil)))
+      ((not gitem))
+    (print gitem)))

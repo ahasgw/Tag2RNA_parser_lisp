@@ -1,0 +1,6 @@
+(defvar *p*)
+(setf *p* (make-tag2rna-parser '(s) '(a) '((t3l s a) (t2d a a))))
+(gc)
+(room)
+(parse-string *p* "agucgucgucgucgucgucugacgacgacgacgacgac")
+(parse-string *p* "agucgucgucgucgucgucgucgucgucgucgucgucgucgucgucgucugacgacgacgacgacgacgacgacgacgacgacgacgacgacgacgac")

@@ -1,0 +1,105 @@
+? (room)
+There are at least 30,196,768 bytes of available RAM.
+
+                  Total Size             Free                 Used
+Mac Heap:      1872096 (1828K)       378704 (369K)       1493392 (1459K)
+Lisp Heap:    39276544 (38356K)     29818064 (29119K)      9458544 (9236K)
+ (Static):      561152 (548K)
+Stacks:         208960 (204K)
+? (room)
+There are at least 27,601,792 bytes of available RAM.
+
+                  Total Size             Free                 Used
+Mac Heap:      1872096 (1828K)       378752 (369K)       1493344 (1459K)
+Lisp Heap:    39276544 (38356K)     27223040 (26585K)     12054792 (11772K)
+ (Static):      561152 (548K)
+Stacks:         208960 (204K)
+? (room)
+There are at least 23,665,856 bytes of available RAM.
+
+                  Total Size             Free                 Used
+Mac Heap:      1872096 (1828K)       378768 (369K)       1493328 (1459K)
+Lisp Heap:    39276544 (38356K)     23287088 (22741K)     15991336 (15616K)
+ (Static):      561152 (548K)
+Stacks:         208960 (204K)
+? (room)
+There are at least 17,244,048 bytes of available RAM.
+
+                  Total Size             Free                 Used
+Mac Heap:      1872096 (1828K)       378768 (369K)       1493328 (1459K)
+Lisp Heap:    39276544 (38356K)     16865280 (16470K)     22418824 (21893K)
+ (Static):      561152 (548K)
+Stacks:         208960 (204K)
+? (room)
+There are at least 11,491,472 bytes of available RAM.
+
+                  Total Size             Free                 Used
+Mac Heap:      1872096 (1828K)       378768 (369K)       1493328 (1459K)
+Lisp Heap:    39276544 (38356K)     11112704 (10852K)     28172264 (27511K)
+ (Static):      561152 (548K)
+Stacks:         208960 (204K)
+? (room)
+There are at least 9,020,768 bytes of available RAM.
+
+                  Total Size             Free                 Used
+Mac Heap:      1872096 (1828K)       378768 (369K)       1493328 (1459K)
+Lisp Heap:    39276544 (38356K)      8642000 (8439K)     30637048 (29918K)
+ (Static):      561152 (548K)
+Stacks:         208960 (204K)
+? (room)
+There are at least 7,276,856 bytes of available RAM.
+
+                  Total Size             Free                 Used
+Mac Heap:      1872096 (1828K)       378768 (369K)       1493328 (1459K)
+Lisp Heap:    39276544 (38356K)      6898088 (6736K)     32385808 (31626K)
+ (Static):      561152 (548K)
+Stacks:         208960 (204K)
+? (room)
+There are at least 1,623,744 bytes of available RAM.
+
+                  Total Size             Free                 Used
+Mac Heap:      1872096 (1828K)       378768 (369K)       1493328 (1459K)
+Lisp Heap:    39276544 (38356K)      1244976 (1215K)     38036888 (37145K)
+ (Static):      561152 (548K)
+Stacks:         208960 (204K)
+? (room)
+There are at least 35,787,160 bytes of available RAM.
+
+                  Total Size             Free                 Used
+Mac Heap:      1872096 (1828K)       378768 (369K)       1493328 (1459K)
+Lisp Heap:    39276544 (38356K)     35408392 (34578K)      3883216 (3792K)
+ (Static):      561152 (548K)
+Stacks:         208960 (204K)
+? (room)
+There are at least 31,258,896 bytes of available RAM.
+
+                  Total Size             Free                 Used
+Mac Heap:      1872096 (1828K)       378768 (369K)       1493328 (1459K)
+Lisp Heap:    39276544 (38356K)     30880128 (30156K)      8402152 (8205K)
+ (Static):      561152 (548K)
+Stacks:         208960 (204K)
+? (room)
+There are at least 9,163,352 bytes of available RAM.
+
+                  Total Size             Free                 Used
+Mac Heap:      1872096 (1828K)       378768 (369K)       1493328 (1459K)
+Lisp Heap:    39276544 (38356K)      8784584 (8578K)     30497664 (29782K)
+ (Static):      561152 (548K)
+Stacks:         208960 (204K)
+? (room)
+There are at least 5,074,328 bytes of available RAM.
+
+                  Total Size             Free                 Used
+Mac Heap:      1872096 (1828K)       378768 (369K)       1493328 (1459K)
+Lisp Heap:    39276544 (38356K)      4695560 (4585K)     34582368 (33771K)
+ (Static):      561152 (548K)
+Stacks:         208960 (204K)
+? (room)
+There are at least 2,709,008 bytes of available RAM.
+
+                  Total Size             Free                 Used
+Mac Heap:      1872096 (1828K)       378768 (369K)       1493328 (1459K)
+Lisp Heap:    39276544 (38356K)      2330240 (2275K)     36952904 (36086K)
+ (Static):      561152 (548K)
+Stacks:         208960 (204K)
+? 

@@ -1,0 +1,28 @@
+Tag2RNA parser documentation
+
+Interface
+	parser:
+		set up a grammar
+		parse for a given string
+		return the result
+
+Class hierarchy
+	parser
+	grammar
+		tag2rna-grammar
+			tag2rna-parser
+
+External protocols
+	parser:
+		setup-grammar
+		parse-string
+		get-result
+	grammar:
+		make-grammar
+		initial-symbol
+		final-symbol
+	tag2rna-grammar:
+		
+
+Parser class
+	

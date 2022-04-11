@@ -1,0 +1,47 @@
+Welcome to Macintosh Common Lisp Version 3.0p2!
+? 
+RECOGNIZE
+? 
+*P*
+? 
+#<TAG2RNA-PARSER #x3675661>
+? 
+NIL
+? 
+There are at least 38,680,384 bytes of available RAM.
+
+                  Total Size             Free                 Used
+Mac Heap:      1872096 (1828K)       384256 (375K)       1487840 (1453K)
+Lisp Heap:    39276544 (38356K)     38296128 (37398K)       983584 (960K)
+ (Static):      561152 (548K)
+Stacks:         208960 (204K)
+? 
+Entering initialize..
+Entering compute steps.......................................
+There are at least 36,961,064 bytes of available RAM.
+
+                  Total Size             Free                 Used
+Mac Heap:      1872096 (1828K)       384256 (375K)       1487840 (1453K)
+Lisp Heap:    39276544 (38356K)     36576808 (35719K)      2699856 (2636K)
+ (Static):      561152 (548K)
+Stacks:         208960 (204K)
+
+Entering accept.....................
+String was recognized.
+T
+? (parse-string *p* "agucgucgucgucgucgucgucgucgucgucgucgucgucgucgucgucugacgacgacgacgacgacgacgacgacgacgacgacgacgacgacgac")
+
+Entering initialize..
+Entering compute steps...................................................................................................
+There are at least 2,422,440 bytes of available RAM.
+
+                  Total Size             Free                 Used
+Mac Heap:      1872096 (1828K)       378768 (369K)       1493328 (1459K)
+Lisp Heap:    39276544 (38356K)      2043672 (1995K)     37232992 (36360K)
+ (Static):      561152 (548K)
+Stacks:         208960 (204K)
+
+Entering accept...................................................
+String was recognized.
+T
+? 
